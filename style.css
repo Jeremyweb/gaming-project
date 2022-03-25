@@ -218,7 +218,7 @@ margin-left: 5px;
 .genre .left p{
     position: relative;
     bottom: 10px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .genre .mid p {
